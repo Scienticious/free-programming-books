@@ -1038,6 +1038,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
+* [Let Us C - Fifth Edition](https://drive.google.com/file/d/1Yvq27-qsSPOxjJakf1cXpWq76L0F0cu_/view) - Yashavant Kanetkar (PDF)
 
 
 ### C Sharp
@@ -1827,6 +1828,8 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Kotlin Notes for Professionals book](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
+* [Head First Kotlin](http://file.allitebooks.com/20190303/Head%20First%20Kotlin.epub) (EPUB)
+
 
 
 ### LaTeX / TeX
