@@ -1855,6 +1855,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Kotlin Notes for Professionals book](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
+* [Head First Kotlin](https://libribook.com/ebook/26789/head-first-kotlin-brain-friendly-guide-pdf) - Dawn Griffiths and David Griffiths (PDF)
 
 
 ### LaTeX / TeX
